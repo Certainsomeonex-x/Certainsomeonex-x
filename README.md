@@ -1,24 +1,38 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+# Hi there! 👋 I'm Anirudha Patnaik
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+[![Followers](https://img.shields.io/github/followers/Certainsomeonex-x?label=Followers&style=flat-square)](https://github.com/Certainsomeonex-x)
+[![Repositories](https://img.shields.io/badge/Repositories-1-blue?style=flat-square)](https://github.com/Certainsomeonex-x?tab=repositories)
+[![GHW](https://img.shields.io/badge/GHW-Open%20Source%202025-orange?style=flat-square)](https://ghw.mlh.io/)
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+## About Me
+I'm a first-year Computer Science Engineering student passionate about exploring the world of technology.
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+- 📍 Location: India
+- 🎓 Education: Kalinga Institute of Industrial Technology (KIIT)
+- � Started coding journey: September 2024
 
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## My Journey
+I'm just getting started in the exciting field of Computer Science, and every day brings new learning opportunities. As a freshman, I'm focusing on building strong foundational knowledge and exploring various aspects of programming.
+
+## Areas of Interest
+- 💻 Computer Science fundamentals
+- 🌱 Learning and growing in tech
+- 🤝 Collaborating with fellow developers
+
+## Current Focus
+- 🎯 Participating in MLH Global Hack Week: Open Source (October 2025)
+- 📚 Building strong programming foundations
+- 🔍 Exploring different areas of Computer Science
+- 💡 Working on learning projects
+- 🌟 Contributing to open source projects
+
+## Hackathons & Events
+- 🚀 MLH Global Hack Week: Open Source (October 2025)
+  - Learning about open source contributions
+  - Collaborating with the global developer community
+  - Building my GitHub profile and presence
+
+Feel free to connect with me! I'm always eager to learn and collaborate with others in the tech community.
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
