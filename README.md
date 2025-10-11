@@ -5,14 +5,14 @@
 [![GHW](https://img.shields.io/badge/GHW-Open%20Source%202025-orange?style=flat-square)](https://ghw.mlh.io/)
 
 ## About Me
-I'm a first-year Computer Science Engineering student passionate about exploring the world of technology.
+I'm a second-year Computer Science Engineering student passionate about exploring the world of technology.
 
 - 📍 Location: India
 - 🎓 Education: Kalinga Institute of Industrial Technology (KIIT)
 - � Started coding journey: September 2024
 
 ## My Journey
-I'm just getting started in the exciting field of Computer Science, and every day brings new learning opportunities. As a freshman, I'm focusing on building strong foundational knowledge and exploring various aspects of programming.
+I'm exploring the exciting field of Computer Science, and every day brings new learning opportunities. I'm focusing on building strong foundational knowledge and exploring various aspects of programming.
 
 ## Areas of Interest
 - 💻 Computer Science fundamentals
