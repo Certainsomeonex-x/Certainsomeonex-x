@@ -5,7 +5,7 @@
 [![GHW](https://img.shields.io/badge/GHW-Open%20Source%202025-orange?style=flat-square)](https://ghw.mlh.io/)
 
 ## About Me
-I'm a second-year Computer Science Engineering student passionate about exploring the world of technology.
+I'm a third-year Computer Science Engineering student passionate about exploring the world of technology.
 
 - 📍 Location: India
 - 🎓 Education: Kalinga Institute of Industrial Technology (KIIT)
